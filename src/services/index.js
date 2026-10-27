@@ -10,7 +10,7 @@ app.use(express.json());
 app.get('/', (req, res) => {
     res.json({
         status: 'success',
-        message: 'Node server is running'
+        message: 'Node server is running ...'
     });
 });
 
