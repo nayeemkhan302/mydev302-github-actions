@@ -1,0 +1,23 @@
+{
+  "name": "github-workflows",
+  "version": "1.0.0",
+  "description": "none",
+  "homepage": "https://github.com/nayeemkhan302/mydev302-github-actions#readme",
+  "bugs": {
+    "url": "https://github.com/nayeemkhan302/mydev302-github-actions/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nayeemkhan302/mydev302-github-actions.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
